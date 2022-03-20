@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything that tickles my fancy.**
 
-- 💬 Ask me about **python, GCP.**
+- 💬 Ask me about **python, Data Science, GCP.**
 
 - 📫 How to reach me **dolapo2509@gmail.com**
 

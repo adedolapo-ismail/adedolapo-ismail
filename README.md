@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adedolapo Ismail</h1>
-<h3 align="center">A Software Dev with skills and domain knowledge in Data Science and Cloud Computing</h3>
+<h3 align="center">A Data Scientist with domain knowledge in Data Analysis and Cloud Computing</h3>
 
 - 🔭 I’m currently working on [US Bikeshare Web App](https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp)
 

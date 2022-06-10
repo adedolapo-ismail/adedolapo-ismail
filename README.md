@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [US Bikeshare Web App](https://github.com/adedolapo-ismail/US-Bikeshare-Data-Exploration-Webapp)
 
-- 🌱 I’m currently learning **GCP, Azure, DevOps.**
+- 🌱 I’m currently learning **GCP, Azure, Big Data.**
 
 - 👯 I’m looking to collaborate on **anything that tickles my fancy.**
 
